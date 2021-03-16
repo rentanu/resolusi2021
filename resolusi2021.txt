@@ -3,6 +3,6 @@ resolusi2021
 - ESP32cam untuk baca meteran PDAM
 - charger all in one
   - aki sla, li-ion, li-po
-  - charger HP
+  - cas HP fast charging
 - mendalami APP-Invertor android
  
