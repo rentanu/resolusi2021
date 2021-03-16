@@ -1,0 +1,7 @@
+resolusi2021
+- modul UPS PSW + Cas
+- ESP32cam untuk baca meteran PDAM
+- charger all in one
+  - aki sla, li-ion, li-po
+  - charger HP
+ 
